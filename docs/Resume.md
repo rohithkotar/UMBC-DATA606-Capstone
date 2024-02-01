@@ -1,4 +1,4 @@
-![DikshithaPic](https://github.com/DATA-690-FALL-2021/data690_Dikshitha/blob/main/assignment_01/Dikshitha_Pic.jpg)
+![RohithPic](docs/rohith_pic.png)
 # Rohith Kotar
 - Email: rohithkotar@gmail.com
 - LinkedIn: [Rohith Kotar](https://www.linkedin.com/in/rohith-kotar/)
