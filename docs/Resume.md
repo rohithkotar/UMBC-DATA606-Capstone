@@ -1,4 +1,4 @@
-![RohithPic]([/rohith_dp.png])
+![RohithPic](rohith_dp.png)
 # Rohith Kotar
 - Email: rohithkotar@gmail.com
 - LinkedIn: [Rohith Kotar](https://www.linkedin.com/in/rohith-kotar/)
