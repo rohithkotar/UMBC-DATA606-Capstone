@@ -1,4 +1,4 @@
-![RohithPic]([docs/rohith_pic.png](https://github.com/rohithkotar/UMBC-DATA606-Capstone/blob/main/docs/rohithpic.jpg))
+![RohithPic]([docs/rohith](https://github.com/rohithkotar/UMBC-DATA606-Capstone/blob/main/docs/rohithpic.jpg))
 # Rohith Kotar
 - Email: rohithkotar@gmail.com
 - LinkedIn: [Rohith Kotar](https://www.linkedin.com/in/rohith-kotar/)
