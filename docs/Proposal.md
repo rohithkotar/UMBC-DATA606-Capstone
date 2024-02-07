@@ -21,9 +21,15 @@
    - **Time period**: Jan 2023 to Dec 2023
    - **What does each row represent?**: Each row represents a post on the data science subreddit.
    - **Data dictionary**: 
-     - *Columns name*: 
-     - *Data type*: 
-     - *Definition*: 
+     - *Columns name*: title, selftext, author, num_of_comments, score, created_utc (as of now)
+     - *Data type*: String, timestamp
+     - *Definition*:
+       - Title: The title of a Reddit submission (post), which is typically a brief summary or description of the content being shared or discussed.
+       - Selftext: The main body of text accompanying a Reddit submission. It provides additional context, information, or details related to the content of the post. Not all posts have selftext, as some may be link posts with no accompanying text.
+       - Author: The username of the Reddit user who created the submission. This attribute indicates the original poster (OP) of the content.
+       - Num_of_comments: The number of comments that the Reddit submission has received. Comments are responses or reactions from other Reddit users to the original post.
+       - Score: The score of the Reddit submission, which represents the net number of upvotes minus downvotes received by the post. It is a measure of the post's popularity and perceived quality within the Reddit community.
+       - Created_utc: The timestamp indicating the date and time when the Reddit submission was created, represented in Coordinated Universal Time (UTC). It provides information about when the post was originally posted to the platform.
      - *Potential values*: 
    - **Target/label**: Not applicable. 
    - **Features/predictors**: Text content of posts and metadata such as author, timestamp, number of upvotes etc.
