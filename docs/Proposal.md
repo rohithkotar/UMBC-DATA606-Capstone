@@ -2,8 +2,8 @@
    - **Project Title**: Real-Time Reddit Chatbot on Data Science Subreddit
    - **Prepared for UMBC Data Science Master Degree Capstone by Dr. Chaojie (Jay) Wang**
    - **Author Name**: Rohith Kotar
-   - **Link to the author's GitHub profile**: 
-   - **Link to the author's LinkedIn profile**: 
+   - **Link to the author's GitHub profile**: https://github.com/KotarRohith
+   - **Link to the author's LinkedIn profile**: https://www.linkedin.com/in/rohith-kotar/
    - **Link to your PowerPoint presentation file**: 
    - **Link to your YouTube video**: 
 
