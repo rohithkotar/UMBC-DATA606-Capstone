@@ -38,7 +38,7 @@
 5. **Model Training**
    - **Predictive analytics models**: Natural Language Processing (NLP) models for text analysis and understanding.
    - **Model training**: Python packages like NLTK for training NLP models.
-   - **Train vs test split**: 
+   - **Train vs test split**: N/A
    - **Performance measurement**: Metrics such as accuracy, precision, recall, and F1-score for evaluating model performance.
 
 6. **Application of the Trained Models**
@@ -46,7 +46,5 @@
    - Users can query the chatbot for real-time insights and engage in data science discussions based on Reddit data.
 
 7. **Conclusion**
-   - Summarize the development of the real-time Reddit chatbot and its potential applications.
-   - Discuss limitations, lessons learned, and future research directions, such as improving chatbot accuracy and incorporating sentiment analysis.
 
 8. **References**
