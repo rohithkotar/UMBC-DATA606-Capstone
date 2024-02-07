@@ -1,7 +1,7 @@
 1. **Title and Author**
    - **Project Title**: Real-Time Reddit Chatbot on Data Science Subreddit
    - **Prepared for UMBC Data Science Master Degree Capstone by Dr. Chaojie (Jay) Wang**
-   - **Author Name**: Rohit Kotar
+   - **Author Name**: Rohith Kotar
    - **Link to the author's GitHub profile**: 
    - **Link to the author's LinkedIn profile**: 
    - **Link to your PowerPoint presentation file**: 
@@ -30,7 +30,6 @@
        - Num_of_comments: The number of comments that the Reddit submission has received. Comments are responses or reactions from other Reddit users to the original post.
        - Score: The score of the Reddit submission, which represents the net number of upvotes minus downvotes received by the post. It is a measure of the post's popularity and perceived quality within the Reddit community.
        - Created_utc: The timestamp indicating the date and time when the Reddit submission was created, represented in Coordinated Universal Time (UTC). It provides information about when the post was originally posted to the platform.
-     - *Potential values*: 
    - **Target/label**: Not applicable. 
    - **Features/predictors**: Text content of posts and metadata such as author, timestamp, number of upvotes etc.
 
