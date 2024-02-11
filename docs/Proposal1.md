@@ -38,21 +38,46 @@
       SUSPECTED MINOR INJURY       11870
       SUSPECTED SERIOUS INJURY      1415
       FATAL INJURY                   153
-- **Features/predictors**:
+## Tools and Technologies
+   Snowflake and AWS Service for complete development and deployment of model.
 ## Exploratory Data Analysis (EDA)
-
-
+  - Dataset is imbalanced.
+  - Features needs to be transformed.
+  - Feature extraction is required.
 ## Model Training
 
-- **Predictive analytics models**: 
-- **Model training**:
-- **Train vs test split**:
-- **Performance measurement**:
+- **Predictive Analytics Models**: 
+  - Logistic Regression
+  - XGBoost
+  - Random Forest
+  - AdaBoost
+  - Gradient Boosting
+  - Ensemble Models (combination of above algorithms)
+  - Each model will be tuned using hyperparameter optimization techniques such as GridSearchCV.
+  
+- **Sampling Techniques**:
+  - Various sampling methods will be employed to address class imbalance, including:
+    - Random Oversampling
+    - SMOTE (Synthetic Minority Over-sampling Technique)
+    - ADASYN (Adaptive Synthetic Sampling)
+    - Random Undersampling
+- **Train vs Test Split**: 
+  - The dataset will be split into training and testing sets using an 80:20 ratio, ensuring a sufficient amount of data for model training and evaluation.
 
-## Application of the Trained Models
-
+- **Performance Measurement**: 
+  - Model performance will be assessed using the following metrics:
+    - Precision
+    - Recall
+    - F1-Score
+    - ROC Curves
 ## Conclusion
 
 
 ## References
+
+https://scikit-learn.org/stable/modules/grid_search.html
+
+https://towardsdatascience.com/hyperparameter-tuning-the-random-forest-in-python-using-scikit-learn-28d2aa77dd74
+
+Feature Engineering - https://www.youtube.com/playlist?list=PLKnIA16_RmvYXWH_E6PuVLLHHTWXwwDN7
 
