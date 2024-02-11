@@ -15,7 +15,6 @@
 - **Significance**:
    - Accurate prediction of injury severity can lead to more efficient resource allocation in emergency response systems, potentially saving lives by ensuring            timely and appropriate medical attention.
     - Improved injury severity prediction can aid in the development of proactive measures for accident prevention, contributing to overall public safety and             reducing the occurrence of severe accidents.
-    - Enhanced understanding of factors contributing to injury severity can inform policy decisions and interventions aimed at reducing the societal and economic         burden associated with accidents and their aftermath.
     - Reliable injury severity prediction models can facilitate the development of personalized treatment plans for accident victims, optimizing healthcare               resources and improving patient outcomes.
     - The insights gained from this research can have broader implications beyond accident-related injuries, potentially informing predictive modeling efforts in         other domains with imbalanced datasets, such as healthcare and finance.
 
@@ -31,8 +30,14 @@
 
 - **Data sources**: https://data.montgomerycountymd.gov/Public-Safety/Crash-Reporting-Drivers-Data/mmzv-x632/about_data
 - **Data size**: 84MB
-- **Data shape**: 172000*43
+- **Data shape**: (172105, 51)
 - **Target/label**: injury_severity
+      injury_severity
+      NO APPARENT INJURY          141185
+      POSSIBLE INJURY              17482
+      SUSPECTED MINOR INJURY       11870
+      SUSPECTED SERIOUS INJURY      1415
+      FATAL INJURY                   153
 - **Features/predictors**:
 ## Exploratory Data Analysis (EDA)
 
