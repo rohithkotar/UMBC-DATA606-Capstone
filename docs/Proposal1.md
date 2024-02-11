@@ -33,11 +33,11 @@
 - **Data shape**: (172105, 51)
 - **Target/label**: injury_severity
       injury_severity
-      NO APPARENT INJURY          141185
-      POSSIBLE INJURY              17482
-      SUSPECTED MINOR INJURY       11870
-      SUSPECTED SERIOUS INJURY      1415
-      FATAL INJURY                   153
+     - NO APPARENT INJURY          141185
+     - POSSIBLE INJURY              17482
+     - SUSPECTED MINOR INJURY       11870
+     - SUSPECTED SERIOUS INJURY      1415
+     - FATAL INJURY                   153
 ## Tools and Technologies
    Snowflake and AWS Service for complete development and deployment of model.
 ## Exploratory Data Analysis (EDA)
