@@ -73,7 +73,7 @@ This project aims to develop a robust predictive modeling approach for estimatin
 ## Visualizations
 
 #### Distribution of accidents
-![Distribution of Accidents](Data/1.png)
+![Distribution of Accidents](../Data/1.png)
 
 Figure showing no of accidents in each place
 
