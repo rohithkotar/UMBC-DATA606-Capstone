@@ -83,7 +83,20 @@ This project aims to develop a robust predictive modeling approach for estimatin
 ![Crashes over time](../Data/4.png)
 
 #### Feature importance
-![Featue Importance](../Data/4.png)
+![Featue Importance](../Data/5.png)
+
+#### Logistic Regression
+![Featue Importance](../Data/8.png)
+#### Random Forest
+![Random Forest](../Data/9.png)
+#### Gradient Boosting
+![Gradient Boosting](../Data/10.png)
+#### Decision Tree
+![Decision Tree](../Data/11.png)
+#### RF with Grid Search CV
+![RF with CV](../Data/RF.png)
+#### SMOTE
+![SMOTE](../Data/smote.png)
 
 
 ## Model Training
