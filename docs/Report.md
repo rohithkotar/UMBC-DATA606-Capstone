@@ -10,7 +10,7 @@
 ## Background
 
 ### Objective
-This project aims to develop a robust predictive modeling approach for estimating injury severity in accidents using an unbalanced dataset.
+This project aims to develop a robust predictive modeling approach for estimating injury severity in accidents for an unbalanced dataset using Machine Learning
 
 ### Significance
 - Accurate prediction of injury severity can lead to more efficient resource allocation in emergency response systems, potentially saving lives by ensuring timely and appropriate medical attention.
@@ -126,6 +126,8 @@ This project aims to develop a robust predictive modeling approach for estimatin
 - This application was deployed into streamlit cloud and can be accessed using below link.
   (if below link is not working it can be run using final.py file. streamlit run final.py)
 
+https://czuoqygrbvyevqjg9xflec.streamlit.app/
+
   
 ![UI](../Data/UI.png)
 ![UI-2](../Data/UI-2.png)
@@ -133,9 +135,12 @@ This project aims to develop a robust predictive modeling approach for estimatin
 
 
 ## Conclusion:
-
-- Performing advanced Feature Engineering provided better results.
-- Non Sampling methods took less time to execute and provided better results than Sampling Methods.
+- The research developed a robust predictive modeling approach for estimating injury severity in accidents using Machine Learning techniques.
+- The study found that Decision Tree performed better than other algorithms, with good F1-score and Accuracy.
+- Feature engineering techniques significantly improved model performance.
+- The predictive model can aid in efficient resource allocation in emergency response systems, potentially saving lives.
+- The model can contribute to the development of personalized treatment plans for accident victims, optimizing healthcare resources.
+- Investigate additional feature engineering techniques to further improve model performance.
 
 
 If you have any problem loading python files on GitHub paste the link in [https://nbviewer.org/](https://nbviewer.org/) to view the ipynb file.
@@ -145,5 +150,6 @@ If you have any problem loading python files on GitHub paste the link in [https:
 - [Grid Search in scikit-learn](https://scikit-learn.org/stable/modules/grid_search.html)
 - [Hyperparameter Tuning the Random Forest in Python using scikit-learn](https://towardsdatascience.com/hyperparameter-tuning-the-random-forest-in-python-using-scikit-learn-28d2aa77dd74)
 - [Feature Engineering](https://www.youtube.com/playlist?list=PLKnIA16_RmvYXWH_E6PuVLLHHTWXwwDN7)
-- *Feature Engineering for Machine Learning: Strategies for Data Preprocessing* by Kuhn, M., and Johnson, K. (2019)
+- 602 Project ( Introduction to Machine Learning).
+- Feature Engineering for Machine Learning: Strategies for Data Preprocessing by Kuhn, M., and Johnson, K. (2019)
 - "Injury Severity Prediction: A Review of Literature and Methods" by Abdel-Wahab, O. M., et al. (2009). This paper provides a comprehensive overview of injury severity prediction methods.
