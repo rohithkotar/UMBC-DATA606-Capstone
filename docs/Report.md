@@ -1,6 +1,4 @@
-https://appapppy-hmcgrpmtnhtfvlungysyp6.streamlit.app/
-
-### Predicting Injury Severity using ML Techniques
+# Predicting Injury Severity using ML Techniques
 
 - **Name:** Rohith Kotar
 - **Semester:** Final Semester
@@ -57,6 +55,8 @@ Below is a description of the key data elements/features used in the analysis:
 
 
 ## Results of Machine Learning (ML)
+
+https://appapppy-hmcgrpmtnhtfvlungysyp6.streamlit.app/
 
 
 ## Conclusion
