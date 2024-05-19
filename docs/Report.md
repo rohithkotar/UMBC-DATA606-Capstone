@@ -153,3 +153,4 @@ If you have any problem loading python files on GitHub paste the link in [https:
 - 602 Project ( Introduction to Machine Learning).
 - Feature Engineering for Machine Learning: Strategies for Data Preprocessing by Kuhn, M., and Johnson, K. (2019)
 - "Injury Severity Prediction: A Review of Literature and Methods" by Abdel-Wahab, O. M., et al. (2009). This paper provides a comprehensive overview of injury severity prediction methods.
+- SMOTE Analysis - https://medium.com/@corymaklin/synthetic-minority-over-sampling-technique-smote-7d419696b88c
