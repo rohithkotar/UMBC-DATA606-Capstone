@@ -66,6 +66,7 @@ This project aims to develop a robust predictive modeling approach for estimatin
 ## Exploratory Data Analysis (EDA)
 
 - Dataset is imbalanced.
+- Missing values are imputed.
 - Features are transformed.
 - Feature extraction is done creating new columns for accurate prediction of target.
 - Columns are encoded with One hot Encoding and Ordinal Encoding and then scaled using standard scalar.
