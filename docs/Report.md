@@ -6,7 +6,7 @@ https://appapppy-hmcgrpmtnhtfvlungysyp6.streamlit.app/
 - **Semester:** [
 
 [ YouTube Video]()
-[Final PPT Presentation]()
+[Final PPT Presentation](https://github.com/rohithkotar/UMBC-DATA606-Capstone/blob/main/docs/Rohith_Kotar_606.pptx)
 
 ## Introduction
 
