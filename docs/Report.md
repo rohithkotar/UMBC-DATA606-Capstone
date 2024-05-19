@@ -77,6 +77,8 @@ This project aims to develop a robust predictive modeling approach for estimatin
 
 https://czuoqygrbvyevqjg9xflec.streamlit.app/
 
+If you have any problem loading python files on github paste the link in https://nbviewer.org/ to view the ipynb file.
+
 ## References
 
 - [Grid Search in scikit-learn](https://scikit-learn.org/stable/modules/grid_search.html)
