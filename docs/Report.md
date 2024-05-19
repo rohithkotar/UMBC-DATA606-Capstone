@@ -84,4 +84,8 @@ If you have any problem loading python files on github paste the link in https:/
 - [Grid Search in scikit-learn](https://scikit-learn.org/stable/modules/grid_search.html)
 - [Hyperparameter Tuning the Random Forest in Python using scikit-learn](https://towardsdatascience.com/hyperparameter-tuning-the-random-forest-in-python-using-scikit-learn-28d2aa77dd74)
 - [Feature Engineering](https://www.youtube.com/playlist?list=PLKnIA16_RmvYXWH_E6PuVLLHHTWXwwDN7)
+- Feature Engineering for Machine Learning: Strategies for Data Preprocessing by Kuhn, M., and Johnson, K. (2019)
+- "Injury Severity Prediction: A Review of Literature and Methods" by Abdel-Wahab, O. M., et al. (2009). This paper provides a comprehensive overview of injury severity prediction methods.
+
+
 
