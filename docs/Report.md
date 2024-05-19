@@ -74,8 +74,16 @@ This project aims to develop a robust predictive modeling approach for estimatin
 
 #### Distribution of accidents
 ![Distribution of Accidents](../Data/1.png)
+![Distribution of Accidents2](../Data/2.png)
 
-Figure showing no of accidents in each place
+#### Distribution of Collision Types
+![Distribution of Collision Types](../Data/3.png)
+
+#### Crashes over time
+![Crashes over time](../Data/4.png)
+
+#### Feature importance
+![Featue Importance](../Data/4.png)
 
 
 ## Model Training
