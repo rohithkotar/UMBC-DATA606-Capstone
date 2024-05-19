@@ -11,8 +11,6 @@
 ## Introduction
 
 
-## GitHub Repository - https://github.com/rohithkotar/UMBC-DATA606-Capstone/tree/main
-
 
 ## Background
 
