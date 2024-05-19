@@ -1,4 +1,4 @@
-# Injury Severity Prediction for Unbalanced Data Set Using ML Techniques
+# Injury Severity Prediction During Accidents Using ML Techniques
 
 - **Prepared for:** UMBC Data Science Master Degree Capstone by Dr. Chaojie (Jay) Wang
 - **Author Name:** Rohith Kotar
