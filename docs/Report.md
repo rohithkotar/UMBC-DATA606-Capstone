@@ -85,6 +85,18 @@ This project aims to develop a robust predictive modeling approach for estimatin
 #### Feature importance
 ![Featue Importance](../Data/5.png)
 
+
+## Model Training
+
+
+### Predictive Analytics Models
+- Logistic Regression
+- Decision Tree
+- Random Forest
+- Gradient Boosting
+- Ensemble Models (combination of above algorithms)
+    - Each model is tuned using hyperparameter optimization techniques such as GridSearchCV.
+
 #### Logistic Regression
 ![Featue Importance](../Data/8.png)
 #### Random Forest
@@ -99,23 +111,6 @@ This project aims to develop a robust predictive modeling approach for estimatin
 ![SMOTE](../Data/smote.png)
 
 
-## Model Training
-
-
-### Predictive Analytics Models
-- Logistic Regression
-- Decision Tree
-- Random Forest
-- Gradient Boosting
-- Ensemble Models (combination of above algorithms)
-    - Each model is tuned using hyperparameter optimization techniques such as GridSearchCV.
-
-### Sampling Techniques
-- Below sampling methods employed to address class imbalance, including:
-    - Random Oversampling
-    - SMOTE (Synthetic Minority Over-sampling Technique)
-- Since dataset is large running sampling methods took longer time. Ran different models in different systems. SMOTE performed better when compared to others.
-
 ### Train vs Test Split
 - The dataset was split into training and testing sets using an 80:20 ratio, ensuring a sufficient amount of data for model training and evaluation.
 
@@ -124,10 +119,24 @@ This project aims to develop a robust predictive modeling approach for estimatin
     - Precision
     - Recall
     - F1-Score
+  Out of all model Decision Tree performed better.
 
-## Conclusion
+### Stream lit
+- Created Stream Lit application to take user input and predict the injury severity. User input is passed through same preprocessing pipeline which was used to train the model.
+- This application was deployed into streamlit cloud and can be accessed using below link.
+  (if below link is not working it can be run using final.py file. streamlit run final.py)
 
-[https://czuoqygrbvyevqjg9xflec.streamlit.app/](https://czuoqygrbvyevqjg9xflec.streamlit.app/)
+  
+![UI](../Data/UI.png)
+![UI-2](../Data/UI-2.png)
+
+
+
+## Conclusion:
+
+- Performing advanced Feature Engineering provided better results.
+- Non Sampling methods took less time to execute and provided better results than Sampling Methods.
+
 
 If you have any problem loading python files on GitHub paste the link in [https://nbviewer.org/](https://nbviewer.org/) to view the ipynb file.
 
