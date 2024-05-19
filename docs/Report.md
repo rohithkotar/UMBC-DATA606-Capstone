@@ -5,7 +5,7 @@
 - **GitHub Profile:** [Rohith Kotar](https://github.com/KotarRohith)
 - **LinkedIn Profile:** [Rohith Kotar](https://www.linkedin.com/in/rohith-kotar/)
 - **Link to PowerPoint Presentation:** [PPT](https://github.com/rohithkotar/UMBC-DATA606-Capstone/blob/main/docs/Rohith_Kotar_606.pptx)
-- **Link to YouTube Video:** [Link]
+- **Link to YouTube Video:** [Youtube](https://youtu.be/HyAdlI_3urA)
 
 ## Background
 
