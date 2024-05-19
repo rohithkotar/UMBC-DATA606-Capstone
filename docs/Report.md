@@ -29,7 +29,7 @@ This project aims to develop a robust predictive modeling approach for estimatin
 
 ## Data
 
-- **Data sources:** [Montgomery County Crash Reporting Drivers Data](https://data.montgomerycountymd.gov/Public-Safety/Crash-Reporting-Drivers-Data/mmzv-x632/about_data)
+- **Data sources:** [Montgomery County Crash Reporting Drivers Data](https://data.montgomerycountymd.gov/Public-Safety/Crash-Reporting-Drivers-Data/mmzv-x632/about_data) (Click on Export to download the CSV file)
 - **Data size:** 104MB
 - **Data shape:** (172105, 51)
 - **Target/label:** injury_severity
