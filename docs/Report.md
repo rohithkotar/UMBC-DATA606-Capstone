@@ -1,18 +1,19 @@
 https://appapppy-hmcgrpmtnhtfvlungysyp6.streamlit.app/
 
-# Assignment 04 - Final Deliberable Report
+# 
 
-- **Name:** 
-- **Semester:** [
+- **Name:** Rohith Kotar
+- **Semester:** Final Semester
+- Prepared for UMBC Data Science Master Degree Capstone by Dr. Chaojie (Jay) Wang
+- GitHub Repository - https://github.com/rohithkotar/
 
 [ YouTube Video]()
 [Final PPT Presentation](https://github.com/rohithkotar/UMBC-DATA606-Capstone/blob/main/docs/Rohith_Kotar_606.pptx)
 
 ## Introduction
 
-This report presents the findings and methodologies employed in the completion of Assignment 04, focusing on data preprocessing, exploratory data analysis (EDA), machine learning (ML) model development, and conclusions drawn from the analysis.
 
-## GitHub Repository
+## GitHub Repository - https://github.com/rohithkotar/UMBC-DATA606-Capstone/tree/main
 
 
 ## Background
