@@ -73,6 +73,7 @@ This project aims to develop a robust predictive modeling approach for estimatin
 ## Visualizations
 
 https://github.com/rohithkotar/UMBC-DATA606-Capstone/blob/main/Data/1.png
+![RohithViz]((https://github.com/rohithkotar/UMBC-DATA606-Capstone/blob/main/Data/1.png))
 
 Figure showing no of accidents in each place
 
