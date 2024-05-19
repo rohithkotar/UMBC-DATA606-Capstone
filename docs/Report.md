@@ -68,8 +68,17 @@ This project aims to develop a robust predictive modeling approach for estimatin
 - Dataset is imbalanced.
 - Features are transformed.
 - Feature extraction is done creating new columns for accurate prediction of target.
+- Columns are encoded with One hot Encoding and Ordinal Encoding and then scaled using standard scalar.
+- 
+## Visualizations
+
+https://github.com/rohithkotar/UMBC-DATA606-Capstone/blob/main/Data/1.png
+
+Figure showing no of accidents in each place
+
 
 ## Model Training
+
 
 ### Predictive Analytics Models
 - Logistic Regression
