@@ -1,6 +1,6 @@
 https://appapppy-hmcgrpmtnhtfvlungysyp6.streamlit.app/
 
-# 
+### Predicting Injury Severity using ML Techniques
 
 - **Name:** Rohith Kotar
 - **Semester:** Final Semester
