@@ -1,4 +1,4 @@
-# Injury Severity Prediction for Unbalanced Data Set
+# Injury Severity Prediction for Unbalanced Data Set Using ML Techniques
 
 - **Prepared for:** UMBC Data Science Master Degree Capstone by Dr. Chaojie (Jay) Wang
 - **Author Name:** Rohith Kotar
@@ -24,7 +24,7 @@ This project aims to develop a robust predictive modeling approach for estimatin
 3. Are there any trade-offs between model performance and computational efficiency when using sampling versus non-sampling approaches?
 
 ### Additional Considerations:
-- Various sampling methods, including oversampling and undersampling techniques, will be explored to mitigate class imbalance within the dataset.
+- Various sampling methods, including oversampling and undersampling techniques, explored to mitigate class imbalance within the dataset.
 - Comparative analysis will be conducted by training predictive models both with and without sampling methods to discern their impact on predictive accuracy.
 
 ## Data
@@ -39,45 +39,41 @@ This project aims to develop a robust predictive modeling approach for estimatin
     - SUSPECTED SERIOUS INJURY: 1415
     - FATAL INJURY: 153
 
-## Tools and Technologies
-
-- Snowflake and AWS Service for complete development and deployment of model.
-
 ## Exploratory Data Analysis (EDA)
 
 - Dataset is imbalanced.
-- Features need to be transformed.
-- Feature extraction is required.
+- Features are transformed.
+- Feature extraction is done creating new columns for accurate prediction of target.
 
 ## Model Training
 
 ### Predictive Analytics Models:
 - Logistic Regression
-- XGBoost
+- Decision Tree
 - Random Forest
-- AdaBoost
 - Gradient Boosting
 - Ensemble Models (combination of above algorithms)
-    - Each model will be tuned using hyperparameter optimization techniques such as GridSearchCV.
+    - Each model is tuned using hyperparameter optimization techniques such as GridSearchCV.
 
 ### Sampling Techniques:
-- Various sampling methods will be employed to address class imbalance, including:
+- Below sampling methods employed to address class imbalance, including:
     - Random Oversampling
     - SMOTE (Synthetic Minority Over-sampling Technique)
-    - ADASYN (Adaptive Synthetic Sampling)
-    - Random Undersampling
+- Since dataset is large running sampling methods took longer time. Ran different models in different systems. SMOTE performed better when compared to others.
+
 
 ### Train vs Test Split:
-- The dataset will be split into training and testing sets using an 80:20 ratio, ensuring a sufficient amount of data for model training and evaluation.
+- The dataset splitted into training and testing sets using an 80:20 ratio, ensuring a sufficient amount of data for model training and evaluation.
 
 ### Performance Measurement:
 - Model performance will be assessed using the following metrics:
     - Precision
     - Recall
     - F1-Score
-    - ROC Curves
+
 
 ## Conclusion
+
 
 ## References
 
