@@ -39,7 +39,7 @@
      - SUSPECTED SERIOUS INJURY      1415
      - FATAL INJURY                   153
 ## Tools and Technologies
-   Snowflake and AWS Service for complete development and deployment of model.
+   Python and Streamlit.
 ## Exploratory Data Analysis (EDA)
   - Dataset is imbalanced.
   - Features needs to be transformed.
